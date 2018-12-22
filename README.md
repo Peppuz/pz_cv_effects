@@ -1,4 +1,4 @@
-# Personal Open CV Effets Library
+# PZ ~ Open CV Effets Library
 
 ## Face Glitch
 Starting from a glitch effect seen on youtube, but no code, i wanted something similar on the face every second or combine it and make it go on tempo.
