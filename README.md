@@ -19,7 +19,8 @@ easy stuff specially when coding in python, litterally, amazing.
 
 ## Other Ideas
 Are you a creative or producer guy? And you don't have any idea of how this works but you got an idea? Spit it!
-Even if you might not code, you can open an issue here (button between "Code" & "Pull requests"), on this repository, so we can discuss on the details of your idea.
+ 
+Even if you might not code, you can open an issue here (click "Issues" button between "Code" & "Pull requests"), on this repository, so we can discuss on the details of your idea. Any language ammited.
 
 ## Contributors
 Here all the names of the creators
